@@ -4,7 +4,8 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.ScaleAnimation;
 
-import com.orimuse.android.modular.util.animation.baseAnimation.BaseAnimationUtil;
+import com.move.tools.android.animation.baseAnimation.BaseAnimationUtil;
+
 
 /**
  * 缩放的动画的工具类

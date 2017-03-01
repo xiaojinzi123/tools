@@ -3,7 +3,7 @@ package com.move.tools.android.animation;
 import android.view.View;
 import android.view.animation.AlphaAnimation;
 
-import com.orimuse.android.modular.util.animation.baseAnimation.BaseAnimationUtil;
+import com.move.tools.android.animation.baseAnimation.BaseAnimationUtil;
 
 
 /**

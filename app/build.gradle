@@ -19,6 +19,8 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:25.2.0'
+    //compile 'com.github.xiaojinzi123:tools:1.0'
+    compile project(':tools')
 }
